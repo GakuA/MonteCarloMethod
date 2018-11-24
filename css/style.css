@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	font-size: 45px;
 }
 
 div {
@@ -8,6 +9,10 @@ div {
 
 #button input {
 	width: 40%;
+}
+
+#kaiouken input {
+	font-size: 45px;
 }
 
 #button {
