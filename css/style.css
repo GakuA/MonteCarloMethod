@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+
+div {
+	margin: 30px 0;
+}
+
+#button input {
+	width: 40%;
+}
+
+#button {
+	bottom: 0;
+}
+
+#button div {
+	display: inline-block;
+	border: 1px solid;
+	border-radius: 5px;
+	width: 40vw;
+	padding: 5px
+}
